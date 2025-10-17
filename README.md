@@ -17,4 +17,4 @@ For tracking the tasks
 
 MONGO_URI= MongoDBconnectionString
 JWT_SECRET=your-jwt-secret
-PORT= local port
+PORT= 5000
